@@ -1,0 +1,15 @@
+li{
+    font-family: 'Mali', cursive;
+    color:purple;
+    text-align:left;
+    font-size:45px;
+}
+body{
+    background:yellow;
+}
+img{
+    width:350px;
+    height:350px;
+    border:dotted 2px;
+}
+    
